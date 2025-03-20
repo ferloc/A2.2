@@ -34,3 +34,7 @@ Las variables son las siguientes
 
 
 **Indice**
+
+- [Reporte en formato HTML](A2.2_641675.html)
+- [Reporte en formato ipynb](A2.2_641675.ipynb)
+- [Base de datos](BancoFull.csv)
